@@ -9,10 +9,6 @@ namespace _14thLesson
         static void Main(string[] args)
         {
             
-            int[] array = new int[]{1,2,3,4}; 
-
-            ArrayHelper.Pop(ref array);
-             
         }
     }
 
